@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<concept id="what_is_vitual_background">
+    <title>什么是虚拟背景</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>虚拟背景就是可以将背景替换的一种技术。</p>
+    </conbody>
+</concept>
