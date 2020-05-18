@@ -8,6 +8,7 @@
 - Oxygen XML
 - Github
 - Uxpressia
+- VSC
 
 ## 小组成员
 
