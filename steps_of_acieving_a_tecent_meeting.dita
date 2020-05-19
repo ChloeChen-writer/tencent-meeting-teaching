@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="steps_of_acieving_a_tecent_meeting">
+    <title>Steps of acieving a tecent meeting</title>
+    <shortdesc>如何完成一次腾讯会议</shortdesc>
+    <taskbody>
+        <context>第一步，登陆腾讯会议账号 第二步，点击开启一次腾讯会议 第三步，输入手机号 第四步，得到预约的腾讯会议的连接 第五步，将连接发给需要参会的人员 <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>全部完整步骤</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
