@@ -8,7 +8,7 @@
 - Oxygen XML
 - Github
 - Uxpressia
-- VSC
+- Visual Studio Code
 
 ## 小组成员
 
