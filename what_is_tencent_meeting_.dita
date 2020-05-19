@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_tencent_meeting_">
+    <title>什么是腾讯会议</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>腾讯会议是腾讯云旗下的一款音视频会议产品，于2019年12月底上线。具有300人在线会议、全平台一键接入、音视频智能降噪、美颜、背景虚化、锁定会议、屏幕水印等功能。该软件提供实时共享屏幕、支持在线文档协作。2020年1月24日起腾讯会议面向用户免费开放300人的会议协同能力，直至疫情结束。此外，为助力全球各地抗疫，腾讯会议还紧急研发并上线了国际版应用。3月23日，腾讯会议开放API接口。</p>
+    </conbody>
+</concept>
