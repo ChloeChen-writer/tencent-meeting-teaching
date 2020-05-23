@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_stop_sharing_screen_">
+    <title>如何停止共享屏幕？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在确认共享之后，将鼠标放置于上方的会议号</cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>结束共享</uicontrol></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
