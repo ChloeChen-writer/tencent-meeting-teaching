@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_upload_documents_">
+    <title>如何创建会议文档？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>文档</uicontrol>即可唤出文档窗口。窗口的左上角可以看到当前被允许上传文档的用户。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
