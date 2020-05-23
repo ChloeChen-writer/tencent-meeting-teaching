@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="in_what_ways_can_the_host_control_the_discipline_of_the_meeting_">
+    <title>主持人如何控制会场的纪律？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>当您的身份为主持人时，点击<uicontrol>管理成员</uicontrol>通过此功能对会场纪律进行控制</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>成员数</uicontrol>可帮助您快速统计成员数量</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>成员列表</uicontrol>成员列表显示当前所有在会议中的成员，您可以对列表中的某个成员进行<uicontrol>静音/解除静音操作、改名操作、移出会议、设为主持人/或联席主持人操作</uicontrol>需要注意的是，解除某位成员的静音，需要该成员同意后才能完成。</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>联席主持人</uicontrol>当您设其他成员为联席主持人时，这位成员可协助您管理会议，联席主持人可对成员进行静音、解除静音等操作。</cmd>
+            </step>
+            <step>
+                <cmd>当您将其他成员设为主持人后，如果您是会议的创建者，您可以随时收回主持人身份。</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>全体会议</uicontrol>下方可支持您对当前会议内所有成员进行静音操作，您只需要点击<uicontrol>全体静音</uicontrol>即可，当有新成员加入会议时，也会被默认静音</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>解除全体静音</uicontrol>当您想取消全体静音的状态的时候，可点击<uicontrol>解除全体静音</uicontrol>，这时会请求所有成员打开麦克风</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>允许成员自我解除静音</uicontrol>当您勾选此选项时，成员可自己解除静音状态，可点击最下方的<uicontrol>更多按钮</uicontrol>，勾选<uicontrol>成员入会时静音</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>成员进入时播放提示音</uicontrol>当您勾选此选项时，会议内有新成员加入到时则会发出提示音</cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>仅登录用户可加入会议</uicontrol>当您勾选此选项时，未登陆的成员将无法加入会议（此时电话拨入用户也无法入会）</cmd>
+            </step>
+            <step>
+                <cmd>聊天权限：在聊天窗口，您可以设置聊天权限，限制成员之间的沟通方式</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
