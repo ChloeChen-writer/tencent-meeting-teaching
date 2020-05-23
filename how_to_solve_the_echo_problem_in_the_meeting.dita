@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ddz_xry_tlb">
+    <title>会议中，如何解决回声问题？</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>本地回声：首先，按照啸叫问题所述步骤，排除系统配置异常或者同地多设备导致的回声泄露</cmd>
+            </step>
+            <step>
+                <cmd>对端回声排查措施，进行回声泄露处理。</cmd>
+            </step>
+            <step>
+                <cmd>会议中，其他参会者反馈听到回声，可做出以下检查：</cmd>
+            </step>
+            <step>
+                <cmd>关闭本地的话筒或者喇叭，排查对端的回声是否是本地引起的。</cmd>
+            </step>
+            <step>
+                <cmd>喇叭和麦克风保持尽可能远的距离。</cmd>
+            </step>
+            <step>
+                <cmd>如还存在回声问题，在有条件时，只在发言时打开话筒，发言完毕后及时关闭话筒；单人入会时，建议更改为耳麦入会；退出腾讯会议，重新入会。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xzh_zvy_tlb">
+    <title>我只想看到别人共享的屏幕，不想看对方视频画面，要怎么办？</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击屏幕下方菜单栏<uicontrol>设置</uicontrol>按键，点击<uicontrol>常规设置</uicontrol>，打开<uicontrol>语音模式</uicontrol>，即可停止接受其他成员视频，只保留共享屏幕。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

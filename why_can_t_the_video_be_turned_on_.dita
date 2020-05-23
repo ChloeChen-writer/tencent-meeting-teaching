@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_y2r_jvy_tlb">
+    <title>为什么视频无法正常开启？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>请先确保其他程序没有关闭摄像头；</cmd>
+            </step>
+            <step>
+                <cmd>重新启动您的电脑，确保没有其他程序启动了摄像头；</cmd>
+            </step>
+            <step>
+                <cmd>更新您的摄像头驱动。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

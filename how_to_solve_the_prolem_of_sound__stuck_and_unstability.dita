@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ehw_m5y_tlb">
+    <title>会议中，如何解决声音卡顿，忽高忽低，忽快忽慢？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>首先，排除环境和设备导致声音不正常的可能。</cmd>
+            </step>
+            <step>
+                <cmd>查看网络信号强度是否正常。如果网络条件较差，更换网络。</cmd>
+            </step>
+            <step>
+                <cmd>在设备网卡不确定的情况下，可以尝试用微信、qq等其他软件测试是否通信正常。</cmd>
+            </step>
+            <step>
+                <cmd>如果问题仍存在，为保障会议顺畅，建议关闭视频、屏幕共享等高耗带宽功能，优先保障语音通话质量。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

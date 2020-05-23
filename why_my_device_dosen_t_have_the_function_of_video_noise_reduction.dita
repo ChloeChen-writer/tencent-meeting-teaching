@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ccn_dyy_tlb">
+    <title>为什么我的设备上没有视频降噪功能？</title>
+    <body>
+        <p>目前腾讯会议在Mac端和Android端支持视频降噪功能，且这两端对应的硬件配置需要支持CPU双核，以及AVX2指令集扩展（2013年以后推出的CPU芯片皆具备）以上两个条件。</p>
+    </body>
+</topic>

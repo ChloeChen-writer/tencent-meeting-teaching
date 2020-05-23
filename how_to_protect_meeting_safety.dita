@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fjg_gwx_tlb">
+    <title>如何保护会议安全？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>设置密码：在预定会议时，您可以通过设置密码来限制成员的加入，成员需要输入密码才可进入会议；</cmd>
+            </step>
+            <step>
+                <cmd>屏幕水印：如果您希望保护您即将保护您进入共享的内容，则可以在预定会议以及会议中“设置”>>常规设置>>“开启屏幕共享水印”，将屏幕水印功能打开，防止在未经允许的情况下截取您的共享内容；</cmd>
+            </step>
+            <step>
+                <cmd>锁定会议：如果您不希望会议过程中混入无关人员，则可以在参会者到齐之后，在“管理成员”>>“更多”中，勾选“锁定会议”，即可避免其他人加入正在进行的会议；</cmd>
+            </step>
+            <step>
+                <cmd>移出会议：当有陌生人进入会议时，您可以将其移出会议并勾选不允许用户再次加入该会议；</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

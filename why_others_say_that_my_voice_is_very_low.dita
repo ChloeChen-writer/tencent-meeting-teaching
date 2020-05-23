@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hp3_w4y_tlb">
+    <title>会议中，其他与会者反馈我的声音很小？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>WIN：点击<uicontrol>喇叭</uicontrol>图标->录音设备->点击<uicontrol>对应设备</uicontrol>->属性->级别-；按需调整</cmd>
+            </step>
+            <step>
+                <cmd>MAC：系统偏好设置->声音->输入，将输入音量右拖拽按需调大。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

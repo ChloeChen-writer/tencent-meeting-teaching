@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_uts_hxy_tlb">
+    <title>为什么我的设备上没有美颜功能？</title>
+    <body>
+        <p>目前腾讯会议在Windows端、Mac端都支持美颜功能，但是对各个端硬件和软件系统有一定的要求。具体地，Windows端需要支持Direct3D11以上；Mac端系统版本需要高于10.11，且需要支持Metal。</p>
+    </body>
+</topic>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mgr_mky_tlb">
+    <title>进行会议时，为什么听不到其他参会者的声音？</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>第一步：排查是否设备正常：（IOS&amp;Android请直接第二步）</cmd>
+            </step>
+            <step>
+                <cmd>点击屏幕下方菜单栏<uicontrol>设置</uicontrol>按键，选择扬声器，选择扬声器，点击<uicontrol>测试</uicontrol>按钮，若您听到扬声器播放一段音乐，代表扬声器正常运作；</cmd>
+            </step>
+            <step>
+                <cmd>若不能，请在扬声器下拉菜单中选择其他扬声设备进行测试。</cmd>
+            </step>
+            <step>
+                <cmd>第二步：排查系统权限异常：（请分端按顺序进行排查）</cmd>
+            </step>
+            <step>
+                <cmd>MAC：系统偏好设置->声音->输出，解除禁用及将输出音量左右拖拽后调至最大（后续觉得大可以自行调整）。</cmd>
+            </step>
+            <step>
+                <cmd>WIN：右击<uicontrol>喇叭</uicontrol>图标->播放->查看对应设备是否被禁用。</cmd>
+            </step>
+            <step>
+                <cmd>IOS&amp;Android：请将音量调至最大；右上角喇叭可切换手持与免提模式。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
