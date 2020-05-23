@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="mac_system_no_permission_to_record">
+    <title>Mac系统10.15开启分享时，提示无录制权限，如何解决？</title>
+    <shortdesc>解决Mac录制权限问题</shortdesc>
+    <taskbody>
+        <context>
+            <p>10.15系统开始，部分用户在分享权限兼容性问题，解决步骤如下：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开系统偏好设置 — 安全性与隐私 — 隐私</cmd>
+            </step>
+            <step>
+                <cmd>先试试把勾去掉，如果正在使用会议，会提示是否退出，点击<uicontrol>以后</uicontrol>，然后再把勾勾上，如果正在使用会议，会提示是否退出，点击<uicontrol>以后</uicontrol>看看能否共享；</cmd>
+            </step>
+            <step>
+                <cmd>如果步骤2不行，可以尝试重启下电脑；</cmd>
+            </step>
+            <step>
+                <cmd>如果步骤2、3都不行，右键<uicontrol>在访达中显示</uicontrol>把会议应用删除，看看列表里是否还有会议app，如果还有，则继续删除，直到列表里出现未勾选的会议app，进行勾选；如果删除后列表里没有出现未勾选的会议app，重新安装后就能解决问题。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
