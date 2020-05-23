@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tcc_yxx_tlb">
+    <title>腾讯会议如何开美颜？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开腾讯会议界面，点击<uicontrol>更多</uicontrol>按钮。</cmd>
+            </step>
+            <step>
+                <cmd>打开选项菜单后点击<uicontrol>设置</uicontrol>按钮。</cmd>
+            </step>
+            <step>
+                <cmd>在设置界面点击<uicontrol>高级设置</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>在高级设置页面点击<uicontrol>美颜</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>在美颜设置页面，向右拖动白色滑块增大美颜效果，向左拖动白色滑块减小美颜效果，设置完毕后点击<uicontrol>返回</uicontrol>即可。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
