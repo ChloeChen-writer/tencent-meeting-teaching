@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_distinguish_meeting_status">
+    <title>会议状态的区别（待开始、进行中、无状态）</title>
+    <shortdesc>如何区别会议状态</shortdesc>
+    <taskbody>
+        <context>帮助用户区别会议状态</context>
+        <steps>
+            <step>
+                <cmd>待开始的会议：代表该会议尚未到达预订开始的时间，您可以在列表中，对“待开始的会议”进行加入，取消，以及复制邀请信息的操作，双击该会议或点击<uicontrol>编辑</uicontrol>，则可以对会议主题、会议时间、地点等进行修改，并且可以上传文档，修改会议设置。PS：到达预订开始时间之后，将无法编辑会议；</cmd>
+            </step>
+            <step>
+                <cmd>进行中的会议：代表当前有人在这个会议中，您可以在列表中，加入：“进行中的会议”，同时邀请其他人。双击进行详情页面后，还可以上传文档，但是无法取消。</cmd>
+            </step>
+            <step>
+                <cmd>无状态的会议：代表该会议到达预订开始时间并且已经有人进入过或会议到达预订结束时间，到达预订结束时间的会议会显示“删除会议”的按钮；</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

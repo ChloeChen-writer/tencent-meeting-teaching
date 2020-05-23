@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="how_to_participate_in_tencent_meeting_again">
+    <title>不小心退出会议，怎么返回？</title>
+    <body>
+        <p>您可以在产品主页点击<uicontrol>加入会议</uicontrol>在会议号输入框中输入会议号来返回会议；</p>
+        <p>（1）若您是非主动（闪退、崩溃、强制结束等）的原因而退出会议的，输入框中会自动填写您刚刚参会的会议号；</p>
+        <p>（2）若您是主动选择退出或结束会议，您可以从输入框右侧的下拉菜单中找到该会议号，返回会议。</p>
+    </body>
+</topic>
