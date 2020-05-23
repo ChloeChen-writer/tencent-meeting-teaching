@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_whiteboards_">
+    <title>如何共享白板？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击会议中底部工具栏的<uicontrol>共享屏幕</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>白板</uicontrol>并点击<uicontrol>确认共享</uicontrol></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
