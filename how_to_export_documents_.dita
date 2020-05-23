@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_export_documents_">
+    <title>如何导出会议文档？</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>文档</uicontrol>按钮，在文档列表中打开您要导出的文档</cmd>
+            </step>
+            <step>
+                <cmd>在编辑页面点击<uicontrol>文件</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>导出为</uicontrol>即可导出该文档</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
