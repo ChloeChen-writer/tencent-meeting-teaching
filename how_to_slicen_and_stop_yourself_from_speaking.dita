@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_slicen_and_stop_yourself_from_speaking">
+    <title>如何静音自己和解除自己静音？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>成功连接音频后，操作栏的第一个图标就会变成<uicontrol>静音/解除静音</uicontrol>，如果您在加入会议前，音频设置中没有取消勾选<uicontrol>入会开启麦克风</uicontrol>，则会默认为您开启麦克风，此时您就可以正常发言了。此时如果您需要静音，点击<uicontrol>静音</uicontrol>图标即可。而静音后，图标会变为<uicontrol>解除静音</uicontrol>图标即可重新开启麦克风。</cmd>
+            </step>
+            <step>
+                <cmd>如果主持人设置了<uicontrol>全体静音</uicontrol>且<uicontrol>不允许成员自行解除静音</uicontrol>的话，您点击<uicontrol>解除静音</uicontrol>时，则会向主持人“举手申请”，请求解除静音。待主持人同意后，才会为您打开麦克风。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

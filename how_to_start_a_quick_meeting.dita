@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_start_a_quick_meeting">
+    <title>如何开始一场快速会议</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>登录腾讯会议，在主面板点击<uicontrol>快速会议</uicontrol>按钮，即可开始一场快速会议，无需填写其他信息。</cmd>
+            </step>
+            <step>
+                <cmd>快速会议不会在会议列表展示，当您离开会议后，不能在会议列表找到这个会议但您可以在会议开始一个小时内通过输入会议号加入会议的方式再次回到这个会议中，当会议持续一小时后若会议中无人，系统则会主动结束该会议。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

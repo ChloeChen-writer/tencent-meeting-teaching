@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_log_in_tencent_meeting">
+    <title>如何登录腾讯会议？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>选择账号密码登录时，输入手机号和密码登录即可。</cmd>
+            </step>
+            <step>
+                <cmd>验证码登录。点击账号密码登录右边的<uicontrol>使用验证码登录</uicontrol>。然后输入手机号，输入手机验证码即可。</cmd>
+            </step>
+            <step>
+                <cmd>微信登录。选择腾讯会议页面左下角的微信头像图标，扫描弹出的微信扫描登录二维码即可。</cmd>
+            </step>
+            <step>
+                <cmd>SSO登录。选择腾讯会议页面右下角的SSO登录，在弹出的页面中输入企业邮箱登录即可。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

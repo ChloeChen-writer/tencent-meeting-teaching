@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_join_a_tencent_meeting">
+    <title>如何加入腾讯会议？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>通过连接加入腾讯会议。如果您本地已安装腾讯会议，当您收到的邀请码为链接形式，则可点击邀请链接，验证身份后即可点击<uicontrol>加入会议</uicontrol>直接进入会议。</cmd>
+            </step>
+            <step>
+                <cmd>通过会议号加入会议。打开腾讯会议，在腾讯会议主板面，选择<uicontrol>加入会议</uicontrol>，输入九位会议号，以及您希望在会议中显示的名称（默认使用您个人资料页的昵称），并勾选相应的入会前设置项（勾选自动连接音频，您加入会议后会为您自动连接音频；勾选入会开启摄像头，您加入会议的同时，会为您打开摄像头）点击<uicontrol>加入会议</uicontrol>即可成功入会。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

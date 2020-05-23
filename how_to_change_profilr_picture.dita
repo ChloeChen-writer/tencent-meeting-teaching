@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_change_profilr_picture">
+    <title>腾讯会议如何更换头像？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击打开腾讯会议APP，在个人页面上点击右上角的头像，点击打开。</cmd>
+            </step>
+            <step>
+                <cmd>点击头像上面的头像的框架即可选择图片进行更改头像。</cmd>
+            </step>
+            <step>
+                <cmd>更改成功后会有<uicontrol>修改成功</uicontrol>的字样出现，但需稍等一段时间才能在会议中查看到我们的新头像。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

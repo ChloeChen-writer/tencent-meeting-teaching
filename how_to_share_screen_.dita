@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_screen_">
+    <title>腾讯会议如何共享屏幕？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>打开腾讯会议开会界面，点击<uicontrol>共享屏幕</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>打开提示弹窗后选择您要共享的屏幕界面，然后点击<uicontrol>确定共享</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>打开开会界面共享屏幕功能同时开启，会议中的其他人均可通过电脑、手机观看到您共享的界面。想要停止屏幕共享时，则点击<uicontrol>停止共享</uicontrol>按钮即可。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

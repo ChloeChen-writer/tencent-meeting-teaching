@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_reserve_a_meeting">
+    <title>如何预定一场会议？</title>
+    <shortdesc/>
+    <taskbody>
+        <context>预定会议是指您通过填写预定信息后发起的一个偏向正式的会议。<p/></context>
+        <steps>
+            <step>
+                <cmd>登录腾讯会议，在主面板点击<uicontrol>预定会议</uicontrol>按钮，然后填写详细的会议内容，包括：会议主题、会议开始和结束时间、会议密码和地点、被邀请成员信息（当前仅支持企业版），上传会议文档和设置成员上传文档权限。</cmd>
+            </step>
+            <step>
+                <cmd>您同时可选择对成员加入会议时是否自动静音、是否开启屏幕共享睡衣、是否开启会议直播（通过网页将您的视频会议实时转播给获取链接的用户）进行设置。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>预定</uicontrol>按钮，系统会自动拉起您的邮箱，提醒您给被邀请人发送当前预定会议的邮件。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

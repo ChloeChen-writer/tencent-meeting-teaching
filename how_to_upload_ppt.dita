@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_upload_ppt">
+    <title>腾讯会议如何上传PPT？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入腾讯会议，在下方选择<uicontrol>会员文档</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>导入文档</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>选择需要上传的文档，点击<uicontrol>打开</uicontrol>即可。</cmd>
+            </step>
+            <step>
+                <cmd>导入成功后，打开即可。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

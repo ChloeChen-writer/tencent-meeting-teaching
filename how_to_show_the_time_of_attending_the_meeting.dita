@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_show_the_time_of_attending_the_meeting">
+    <title>腾讯会议如何显示参会时长？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开腾讯会议，点击主面板头像。</cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>设置</uicontrol>按钮。</cmd>
+            </step>
+            <step>
+                <cmd>进入设置页面后，点击开启<uicontrol>显示参会时长</uicontrol>右边的按钮，当该按钮变蓝，即为设置成功。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

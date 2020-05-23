@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_turn_on_the_camera">
+    <title>腾讯会议开启摄像头如何设置？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开腾讯会议，点击头像。</cmd>
+            </step>
+            <step>
+                <cmd>进入页面后，点击<uicontrol>设置</uicontrol>选项。</cmd>
+            </step>
+            <step>
+                <cmd>然后点击<uicontrol>常规设置</uicontrol>选项。</cmd>
+            </step>
+            <step>
+                <cmd>然后在页面中点击<uicontrol>入会开启摄像头</uicontrol>后面的按钮，当该按钮变蓝色时，即为设置成功。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
