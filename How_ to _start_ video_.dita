@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rk2_2yx_tlb">
+    <title>如何开启视频？</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>
+                <ul id="ul_rts_2yx_tlb">
+                    <li>
+                        <p>How to start a video</p>
+                    </li>
+                </ul>
+            </p>
+            <p> </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入腾讯会议，点击<uicontrol>预定的会议</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>点击“<uicontrol>进入会议</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>进入会议后，点击<uicontrol>开启视频</uicontrol></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
