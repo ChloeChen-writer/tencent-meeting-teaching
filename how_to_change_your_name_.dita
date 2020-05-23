@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_change_your_name_">
+    <title>如何改名?</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>加入会议前：当您通过会议号会议时，除了填写会议号之外，还需要输入一个昵称，这个昵称就是会议中所展示出来的名称。您可以在此处更改昵称，改完并成功入会后，系统便会帮助您记住这个新的名称，在您下次入会时沿用。</cmd>
+            </step>
+            <step>
+                <cmd>会议中改名：在您加入会议以后，如果您想要变更当前昵称，可以点击<uicontrol>成员/管理成员</uicontrol>，找到自己的信息栏，点击<uicontrol>改名</uicontrol>，输入新昵称即可；</cmd>
+            </step>
+            <step>
+                <cmd>也可联系主持人，让主持人帮您修改昵称</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
