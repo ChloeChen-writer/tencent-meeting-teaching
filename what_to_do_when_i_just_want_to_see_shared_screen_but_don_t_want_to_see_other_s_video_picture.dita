@@ -9,7 +9,13 @@
         </context>
         <steps>
             <step>
-                <cmd>点击屏幕下方菜单栏<uicontrol>设置</uicontrol>按键，点击<uicontrol>常规设置</uicontrol>，打开<uicontrol>语音模式</uicontrol>，即可停止接受其他成员视频，只保留共享屏幕。</cmd>
+                <cmd>点击屏幕下方菜单栏<uicontrol>设置</uicontrol>按键。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>常规设置。</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>打开<uicontrol>语音模式</uicontrol>，即可停止接受其他成员视频，只保留共享屏幕。</cmd>
             </step>
         </steps>
     </taskbody>
